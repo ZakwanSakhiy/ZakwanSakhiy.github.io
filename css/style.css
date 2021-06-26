@@ -1,0 +1,29 @@
+
+.jumbotron, .projects {
+
+	background-color: #A6CCFF;
+}
+
+.jumbotron {
+	padding-top: 5rem;
+
+}
+
+.jumbotron h1 {
+	font-weight: 500;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .5);
+}
+
+.jumbotron img {
+	width: 200px;
+}
+	
+.about, .projects ,.contact {
+	margin-top: -10px;
+	padding-top: 5rem;
+}
+
+.about, .contact {
+	background-color: white;
+}
+
